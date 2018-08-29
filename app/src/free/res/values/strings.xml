@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Build it Bigger(free)</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-4763972711898797/5661547455</string>
+    <string name="interstitial_test_ad_id">ca-app-pub-4763972711898797/5477590910</string>
+    <string name="tag_closeAd">Closing InterstitialAd</string>
+    <string name="tag_showAd">Showing InterstitialAd</string>
+    <string name="tag_notFinishedLoading">InterstitialAd loading not finished</string>\
+    <string name="tag_requestAd">Requesting new InterstitialAd</string>
 </resources>
